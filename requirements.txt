@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+openai
+python-dotenv
+fastapi
+langserve
+sse_starlette==2.1.2
+uvicorn
+httpx==0.27.2
